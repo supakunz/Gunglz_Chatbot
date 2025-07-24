@@ -22,7 +22,7 @@ Gunglz is a chatbot application developed using the Next.JS, Tailwind CSS and Go
       <li>Responsive with all devices</li>
   </ul>
 
-## 🚀 Technologyies Used
+## 🚀 Tech Stack
   
   <ul>
       <li>NextJS</li>
