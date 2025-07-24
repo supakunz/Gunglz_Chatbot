@@ -3,8 +3,15 @@ Gunglz is a chatbot application developed using the Next.JS, Tailwind CSS and Go
 
 https://github.com/user-attachments/assets/a7f2acdc-7dee-4c52-ae53-db5cdf2940cf
 
-## 👽 Live Demo 
-<a href='https://gunglz-chatbot.vercel.app/' target="_blank">Gunglz Chatbot</a>
+##  👽  Live Demo 
+
+🎥 Watch demo video :  
+
+[Demo Video](https://github.com/user-attachments/assets/a7f2acdc-7dee-4c52-ae53-db5cdf2940cf)
+
+🌐 Try it live here :  
+
+👉  [**Click here to open the app**](https://gunglz-chatbot.vercel.app)
 
 ## 🤖 Features
 
